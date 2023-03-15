@@ -1,10 +1,8 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
-  text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+  title: global.about
+  text: elo
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -77,15 +75,12 @@ sections:
       - title: Project 6
         text: This is a very short project description.
         icon: 6.jpg
+        url: '#' 
+      - title: Project 7
+        text: This is a very short project description.
+        icon: 6.jpg
         url: '#'
 
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
 
   - type: members.html
     section_id: members
