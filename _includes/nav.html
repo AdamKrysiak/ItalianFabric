@@ -21,19 +21,18 @@
           <a
             class="nav-link js-scroll-trigger"
             href="{{ item.url | relative_url }}"
-            >{{ item.title }}</a
-          >
+            >{% t {{ item.title }} %}</a>
           
         </li>
         {% endfor %}
         <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
           <li class="nav-item dropdown">
             <a class="nav-item nav-link dropdown-toggle mr-md-2" href="#" id="bd-versions" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-              {{ site.lang }}
+              {% t nav.{{ site.lang }} %}
             </a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="bd-versions">
-              <a class="dropdown-item" href="/">pl</a>
-              <a class="dropdown-item" href="/it">it</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="bd-versions" id="languageDropdown">
+              <a class="dropdown-item nav-link" href="/">{% t nav.pl %}</a>
+              <a class="dropdown-item nav-link" href="/it">{% t nav.it %}</a>
             </div>
           </li>
         </ul>

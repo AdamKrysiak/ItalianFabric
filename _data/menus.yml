@@ -1,14 +1,12 @@
 
 header:
-- title: site.translations
+- title: nav.about
   url: /#about
-- title: Services
+- title: nav.services
   url: /#services
-- title: Members
-  url: /#members
-- title: History
+- title: nav.history
   url: /#timeline
-- title: Contacts
+- title: nav.contacts
   url: /#contacts
-- title: Links
+- title: nav.links
   url: /links

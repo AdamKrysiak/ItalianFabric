@@ -10,3 +10,13 @@
         "page",
         "icons"
 ;
+
+#languageDropdown {
+        min-width: 3rem;
+        background-color: #ffffff45;
+        border: none
+}
+      
+#languageDropdown .dropdown-item:hover {
+        background-color: #3a3a3a45;
+}

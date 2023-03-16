@@ -1,5 +1,36 @@
 global:
   about: Polish About Me
-  title: Polish Title
+  title: Pragniesz by twoje ubrania "Made in Poland" nabrały perfekcji?
 
-elo: "Polish elo"
+nav:
+  about: O mnie
+  services: Serwisy
+  history: Historia
+  contacts: Kontakt
+  links: Linki
+  pl: PL
+  it: IT
+
+main:
+  top_text: Pragniesz by twoje ubrania "Made in Poland" nabrały perfekcji?
+  bottom_text: Trafiłeś doskonale
+  more: Dowiedz się więcej
+
+about:
+  title: Cześć nazywam się Basia!
+  details: Pracując w jednej z hurtowni tkanin we Wloszech poznałam swiat , ktory mnie zafascynowal... Stając na wysokości zadania szukam dla klientow najpiękniejsze i najbardziej odpowiadajace ich kryteriom materialy. Tkaniny o fajnej wloskiej wysokiej jakosci , ktore zadowola ich w pelni.
+
+services:
+  title: W naszej ofercie
+  support: Profesjonalne doradztwo
+  support_details: W przypadku jakichkolwiek pytań zrobimy co w naszej mocy by Państwu doradzić
+  photos: Wysyłka fotografii
+  photos_details: Czasem jedno zdjęcie nie wystarczy. Na rządanie dosyłamy zdjęcia na maila lub WhattsApp
+  sample: Wysyłka próbek
+  sample_details: Nie zawsze łatwo jest wybrać materiał zdalnie dlatego oferujemy wysyłkę próbek
+  quality: Najwysza jakość materiałów
+  quality_details: OPIS
+  order: Kompletowanie zamówienia
+  order_details: OPIS
+  transport: Organizacja transportu
+  transport_details: OPIS

@@ -1,19 +1,19 @@
 ---
 layout: home
 header:
-  title: global.about
-  text: elo
-  action: # action button is optional
-    label: Find Out More
+  title: main.top_text
+  text: main.bottom_text
+  action:
+    label: main.more
     url: '#about'
 
 
 sections:
-  - type: call-to-action.html
+  - type: about.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: about.title
+    text: about.details
     actions:
       - title: Get Started!
         url: '#page-top'
@@ -22,32 +22,31 @@ sections:
   - type: services.html
     section_id: services
     #background_style: bg-info
-    title: At Your Service
+    title: services.title
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+      - title: services.support
+        text: services.support_details
+        icon: fa-regular fa-headset
+      - title: services.sample
+        text: services.sample_details
+        icon: fa-regular fa-paper-plane
+      - title: services.photos
+        text: services.photos_details
+        icon: fa-regular fa-camera-retro
+      - title: services.quality
+        text: services.quality_details
+        icon: fa-regular fa-gem
+      - title: services.order
+        text: services.order_details
+        icon: fa-regular fa-cart-plus
+      - title: services.transport
+        text: services.transport_details
+        icon: fa-regular fa-truck
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
+    section_id: portfolio
+    background_style: bg-dark
     projects:
       - title: Project 1
         text: This is a very short project description.
@@ -76,41 +75,6 @@ sections:
         text: This is a very short project description.
         icon: 6.jpg
         url: '#' 
-      - title: Project 7
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
-
-
-  - type: members.html
-    section_id: members
-    title: Our Crew!
-    background_style: bg-info text-white
-    members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
 
   - type: timeline.html
     section_id: timeline
