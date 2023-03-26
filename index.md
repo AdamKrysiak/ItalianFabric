@@ -79,7 +79,7 @@ sections:
     - title: info@mybasia.com
       icon: fa-envelope
       url: mailto:info@mybasia.com
-    - title: Whats App</br> +39 347 770 0501
+    - title: WhatsApp</br> +39 347 770 0501
       icon: fa-brands fa-whatsapp
       icon_type: fab
     - title: mybasia
