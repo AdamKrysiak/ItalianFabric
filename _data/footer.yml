@@ -1,5 +1,4 @@
-copyright: '&copy; Start Bootstrap'
 links:
-  - text: Creative
-    url: 'https://startbootstrap.com/themes/creative/'
-    new_window: true
+  - text: '&copy; <span id="mybasiaLogoInText">Mybasia</span>'
+    url: '#'
+

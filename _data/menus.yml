@@ -4,9 +4,5 @@ header:
   url: /#about
 - title: nav.services
   url: /#services
-- title: nav.history
-  url: /#timeline
 - title: nav.contacts
   url: /#contacts
-- title: nav.links
-  url: /links

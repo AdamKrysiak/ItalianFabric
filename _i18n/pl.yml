@@ -4,7 +4,7 @@ global:
 
 nav:
   about: O mnie
-  services: Serwisy
+  services: Usługi
   history: Historia
   contacts: Kontakt
   links: Linki
@@ -18,19 +18,32 @@ main:
 
 about:
   title: Cześć nazywam się Basia!
-  details: Pracując w jednej z hurtowni tkanin we Wloszech poznałam swiat , ktory mnie zafascynowal... Stając na wysokości zadania szukam dla klientow najpiękniejsze i najbardziej odpowiadajace ich kryteriom materialy. Tkaniny o fajnej wloskiej wysokiej jakosci , ktore zadowola ich w pelni.
+  details: > 
+    Pracując w jednej z hurtowni tkanin we Wloszech poznałam swiat, ktory mnie zafascynował...
+    Stając na wysokości zadania pomagam klientom w doborze materiałów które będą im najbardziej odpowiadały.
+    Tkaniny o fajnej wloskiej wysokiej jakosci, ktore zadowola ich w pelni. 
+    
+    </br></br> W ten sposób z zamilowania do tego co robie, powstała <span id="mybasiaLogoInText">MyBasia</span>!</br></br>
+    Klientami sa Firmy produkujace odziez, które chcą swoim kreacjom “Made in Poland” nadać perfekcji wybierając wyjątkowe włoskie tkaniny.
+    Kontrahentami natomiast sa hurtownie stockowe i producenci tekstyli we Wloszech.</br>
+    <span id="mybasiaLogoInText">MyBasia</span> to nie tylko poszukiwanie tkanin, ale cala organizacja od wyboru do dostawy u Klienta.
+    Skorzystaj z naszej oferty i pozwól, aby włoska jakość i styl zagościły w Twoim domu lub garderobie!
 
 services:
   title: W naszej ofercie
   support: Profesjonalne doradztwo
   support_details: W przypadku jakichkolwiek pytań zrobimy co w naszej mocy by Państwu doradzić
-  photos: Wysyłka fotografii
-  photos_details: Czasem jedno zdjęcie nie wystarczy. Na rządanie dosyłamy zdjęcia na maila lub WhattsApp
+  photos: Zdjęcia
+  photos_details: Czasem jedno zdjęcie nie wystarczy. Na żądanie dosyłamy zdjęcia na maila lub WhattsApp
   sample: Wysyłka próbek
   sample_details: Nie zawsze łatwo jest wybrać materiał zdalnie dlatego oferujemy wysyłkę próbek
-  quality: Najwysza jakość materiałów
-  quality_details: OPIS
+  quality: Włoska jakość
+  quality_details: Włoskie materiały to gwarancja jakości
   order: Kompletowanie zamówienia
-  order_details: OPIS
-  transport: Organizacja transportu
-  transport_details: OPIS
+  order_details: Nasza obsługa 
+  transport: Transport
+  transport_details: Zapewnimy dostawę wszystkich produktów prosto do Państwa 
+
+contacts:
+  title: Skontaktuj się!
+  text: Gotowy na zapach Włoch w swoich produktach? Skontaktuj się z nami przy użyciu maila, telefonu lub WhattsApp

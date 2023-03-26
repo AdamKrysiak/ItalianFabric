@@ -2,17 +2,23 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 text-center">
-        <h2 class="mt-0">{{ section.title }}</h2>
+        <h2 class="mt-0">{% t {{ section.title  }} %}</h2>
         <hr class="divider my-4">
-        <p class="text-muted mb-5">{{ section.text }}</p>
+        <p class="text-muted mb-5">{% t {{ section.text  }} %}</p>
       </div>
     </div>
     <div class="row justify-content-center">
       {% for action in section.actions %}
       {% assign fa = action.icon_type | default: "fas" %}
       <div class="col ml-auto text-center">
-        <i class="{{ fa }} {{ action.icon }} fa-3x mb-3 text-muted"></i>
-        <a class="d-block" href="{{ action.url }}">{{ action.title }}</a>
+        <i class="{{ fa }} {{ action.icon }} fa-3x mb-3 icon-light"></i>
+
+        {% if action.url and action.url != "" and action.url != nil %}
+          <a class="d-block text-light-red" href="{{ action.url }}">{{ action.title }}</a>
+        {% else %}
+          <p class="d-block text-light-red">{{ action.title }}</p>
+        {% endif %}
+
       </div>
       {% endfor %}
     </div>
