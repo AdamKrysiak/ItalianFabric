@@ -42,10 +42,10 @@ services:
   sample: Próbki
   sample_details: Wysyłamy próbki tkanin, aby pomóc w podjęciu najlepszej decyzji
   quality: Włoska jakość
-  quality_details: Włoskie materiały to gwarancja najwyszej jakości
+  quality_details: Włoskie materiały to gwarancja najwyższej jakości
   transport: Transport
-  transport_details: Zapewnimy dostawę wszystkich produktów na terenie całej Polski
+  transport_details: Zapewniamy dostawę wszystkich produktów na terenie całej Polski
 
 contacts:
   title: Skontaktuj się z nami!
-  text: Gotowy na Włoską jakość w swoich produktach? Skontaktuj się z nami przy użyciu maila, telefonu, WhattsApp lub śledź nas na Instagramie 
+  text: Gotowy na włoską jakość w swoich produktach? Skontaktuj się z nami przy użyciu maila, telefonu, WhattsApp lub śledź nas na Instagramie 
