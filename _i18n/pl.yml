@@ -1,49 +1,51 @@
 global:
-  about: Polish About Me
-  title: Pragniesz by twoje ubrania "Made in Poland" nabrały perfekcji?
+  about: O mnie
+  title: Tkaniny prosto z Włoch na wyciągnięcie ręki
 
 nav:
   about: O mnie
   services: Usługi
-  history: Historia
   contacts: Kontakt
-  links: Linki
   pl: PL
   it: IT
 
 main:
-  top_text: Pragniesz by twoje ubrania "Made in Poland" nabrały perfekcji?
-  bottom_text: Trafiłeś doskonale
+  top_text: Tkaniny prosto z Włoch na wyciągnięcie ręki
+  bottom_text: Odkryj naszą ofertę
   more: Dowiedz się więcej
 
 about:
-  title: Cześć nazywam się Basia!
+  title: Cześć, z tej strony Basia!
   details: > 
-    Pracując w jednej z hurtowni tkanin we Wloszech poznałam swiat, ktory mnie zafascynował...
-    Stając na wysokości zadania pomagam klientom w doborze materiałów które będą im najbardziej odpowiadały.
-    Tkaniny o fajnej wloskiej wysokiej jakosci, ktore zadowola ich w pelni. 
-    
-    </br></br> W ten sposób z zamilowania do tego co robie, powstała <span id="mybasiaLogoInText">MyBasia</span>!</br></br>
-    Klientami sa Firmy produkujace odziez, które chcą swoim kreacjom “Made in Poland” nadać perfekcji wybierając wyjątkowe włoskie tkaniny.
-    Kontrahentami natomiast sa hurtownie stockowe i producenci tekstyli we Wloszech.</br>
-    <span id="mybasiaLogoInText">MyBasia</span> to nie tylko poszukiwanie tkanin, ale cala organizacja od wyboru do dostawy u Klienta.
-    Skorzystaj z naszej oferty i pozwól, aby włoska jakość i styl zagościły w Twoim domu lub garderobie!
+    Pracując w hurtowni tkanin we Wloszech, poznałam swiat, który mnie zafascynował.
+    Moja praca stała się moją pasją.
+    </br>
+    </br>
+    I tak powstała <span id="mybasiaLogoInText">MyBasia</span>!
+    </br>
+    </br>
+    Codziennie stajemy na wysokości zadania, aby pomóc naszym klientom w doborze tkanin,
+    które wyróżniają się nie tylko wyjątkową jakością, ale również bogactwem wzorów i kolorów.
+    Naszą ofertę kierujemy do firm produkujących odzież, zapewniając szeroki wybór tkanin pochodzących od renomowanych włoskich producentów. 
+    Dzięki temu nasi klienci mogą być pewni wysokiej jakości i niepowtarzalnego wyglądu swoich produktów.
+    </br>
+    </br>
+    <span id="mybasiaLogoInText">MyBasia</span> to nie tylko poszukiwanie tkanin, ale cala organizacja od wyboru do dostawy u klienta.
+    Skorzystaj z naszej oferty i pozwól, aby włoska jakość i styl zagościły w Twoim portfolio!
 
 services:
-  title: W naszej ofercie
-  support: Profesjonalne doradztwo
-  support_details: W przypadku jakichkolwiek pytań zrobimy co w naszej mocy by Państwu doradzić
+  title: Nasze usługi
+  support: Doradztwo
+  support_details: W przypadku jakichkolwiek pytań zapewniamy profesjonalne doradztwo
   photos: Zdjęcia
-  photos_details: Czasem jedno zdjęcie nie wystarczy. Na żądanie dosyłamy zdjęcia na maila lub WhattsApp
-  sample: Wysyłka próbek
-  sample_details: Nie zawsze łatwo jest wybrać materiał zdalnie dlatego oferujemy wysyłkę próbek
+  photos_details: Skontaktuj się z nami, a doślemy dodatkowe zdjęcia tkanin
+  sample: Próbki
+  sample_details: Wysyłamy próbki tkanin, aby pomóc w podjęciu najlepszej decyzji
   quality: Włoska jakość
-  quality_details: Włoskie materiały to gwarancja jakości
-  order: Kompletowanie zamówienia
-  order_details: Nasza obsługa 
+  quality_details: Włoskie materiały to gwarancja najwyszej jakości
   transport: Transport
-  transport_details: Zapewnimy dostawę wszystkich produktów prosto do Państwa 
+  transport_details: Zapewnimy dostawę wszystkich produktów na terenie całej Polski
 
 contacts:
-  title: Skontaktuj się!
-  text: Gotowy na zapach Włoch w swoich produktach? Skontaktuj się z nami przy użyciu maila, telefonu lub WhattsApp
+  title: Skontaktuj się z nami!
+  text: Gotowy na Włoską jakość w swoich produktach? Skontaktuj się z nami przy użyciu maila, telefonu, WhattsApp lub śledź nas na Instagramie 

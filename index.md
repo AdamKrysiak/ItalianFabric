@@ -25,22 +25,19 @@ sections:
     services:
       - title: services.support
         text: services.support_details
-        icon: fa-regular fa-headset
+        icon: fa-headset
       - title: services.sample
         text: services.sample_details
-        icon: fa-regular fa-paper-plane
+        icon: fa-paper-plane
       - title: services.photos
         text: services.photos_details
-        icon: fa-regular fa-camera-retro
+        icon: fa-camera-retro
       - title: services.quality
         text: services.quality_details
-        icon: fa-regular fa-gem
-      - title: services.order
-        text: services.order_details
-        icon: fa-regular fa-cart-plus
+        icon: fa-gem
       - title: services.transport
         text: services.transport_details
-        icon: fa-regular fa-truck
+        icon: fa-truck
 
   - type: portfolio.html
     # this section has always ID 'portfolio'
@@ -82,12 +79,12 @@ sections:
     - title: info@mybasia.com
       icon: fa-envelope
       url: mailto:info@mybasia.com
+    - title: Whats App</br> +39 347 770 0501
+      icon: fa-brands fa-whatsapp
+      icon_type: fab
     - title: mybasia
       icon: fa-brands fa-instagram
       icon_type: fab
       url: https://www.instagram.com/mybasia/
-    - title: Whats App</br> +39 347 770 0501
-      icon: fa-brands fa-whatsapp
-      icon_type: fab
 
 ---
