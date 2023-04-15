@@ -44,7 +44,7 @@ services:
   quality: Włoska jakość
   quality_details: Włoskie materiały to gwarancja najwyższej jakości
   transport: Transport
-  transport_details: Zapewniamy dostawę wszystkich produktów na terenie całej Polski
+  transport_details: Organizujemy dostawę wszystkich produktów na terenie całej Polski
 
 contacts:
   title: Skontaktuj się z nami!
