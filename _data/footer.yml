@@ -1,4 +1,4 @@
 links:
-  - text: '&copy; <span id="mybasiaLogoInText">MyBasia</span>'
+  - text: <span id="mybasiaLogoInText">MyBasia</span>
     url: '#'
 
