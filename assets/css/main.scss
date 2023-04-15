@@ -11,6 +11,10 @@
         "icons"
 ;
 
+@import url(//db.onlinewebfonts.com/c/736cf5b08b01082a3645e14038868e20?family=Krungthep);
+
+@font-face {font-family: "Krungthep"; src: url("//db.onlinewebfonts.com/t/736cf5b08b01082a3645e14038868e20.eot"); src: url("//db.onlinewebfonts.com/t/736cf5b08b01082a3645e14038868e20.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/736cf5b08b01082a3645e14038868e20.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/736cf5b08b01082a3645e14038868e20.woff") format("woff"), url("//db.onlinewebfonts.com/t/736cf5b08b01082a3645e14038868e20.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/736cf5b08b01082a3645e14038868e20.svg#Krungthep") format("svg"); }
+
 #languageDropdown {
         min-width: 3rem;
         background-color: #ffffff45;
@@ -22,22 +26,26 @@
 }
 
 #mybasiaLogoInText {
-    font-family: 'Euphoria Script';
+    font-family: 'Krungthep';
     font-weight: 700;
-    font-size: 1.3rem;
+    font-size: 1.0rem;
 }
 
 .icon-light {
-        color: #578475 !important;
+        color: #559E78 !important;
       }
 
 .text-light-green {
-        color: #578475 !important;
+        color: #559E78 !important;
         font-family: Arial, Helvetica, sans-serif;
 }
 
 .map-svg {
         width: 15rem;
         height: 15rem;
+}
+      
+.logo-svg {
+        width: 8rem;
 }
       
