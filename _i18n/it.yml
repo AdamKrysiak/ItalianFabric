@@ -1,3 +1,58 @@
 global:
-  about: Italiano About Me
-  title: Italiano Title
+  about: Su di me
+  title: Tessuti direttamente dall'Italia a portata di mano
+
+nav:
+  about: Su di me
+  services: Servizi
+  contacts: Contatto
+  pl: PL
+  it: IT
+
+main:
+  top_text: Tessuti direttamente dall'Italia a portata di mano
+  bottom_text: Scopri la nostra offerta
+  more: Scopri di più
+
+about:
+  title: Ciao, sono Basia
+  details: > 
+    Lavorando in un magazzino di tessuti in Italia, ho scoperto un mondo che mi affascinato. Il mio lavoro è diventato la mia passione
+    <br>
+    <br>
+    Ecco come è nata <span id="mybasiaLogoInText">MyBasia</span>!
+    <br>
+    <br>
+    Ogni giorno ci impegniamo per aiutare i nostri clienti nella scelta di tessuti che si distinguono non solo per la qualità eccezionale, ma anche per la varietà di disegni e colori.
+    La nostra offerta è rivolta alle aziende che producono abbigliamento, offrendo una vasta selezione di tessuti provenienti da rinomati produttori italiani.
+    In questo modo, i nostri clienti possono essere certi della qualità elevata e dell'aspetto unico dei loro prodotti.
+    <br>
+    <br>
+    <span id="mybasiaLogoInText">MyBasia</span> non è solo alla ricerca di tessuti, ma è un'organizzazione completa dalla scelta alla consegna al cliente.
+    Approfitta della nostra offerta e lascia che la qualità e lo stile italiani entrino nel tuo portfolio!
+    
+services:
+  title: Nostri servizi
+  support: Consulenza
+  support_details: In caso di qualsiasi domande forniamo consulenza professionale
+  photos: Le foto
+  photos_details: Contattaci per ricevere le foto dei tessuti che desideri
+  sample: I campioni
+  sample_details: spediamo campioni di tessuti per facilitarVi la migliore scelta
+  quality: Qualità italiana
+  quality_details: I tessuti italiani rappresentano una garanzia di ottima qualità
+  transport: Trasporto
+  transport_details: Organizziamo noi il trasporto di tutti articoli
+
+portfolio:
+  tester_1: Campione 1
+  tester_2: Campione 2
+  tester_3: Campione 3
+  tester_4: Campione 4
+  tester_5: Campione 5
+  tester_6: Campione 6
+  increase: Clicca per ingrandire
+
+contacts:
+  title: Conttataci!
+  text: Siete pronti ad ottenere la qualità italiana nei Vs. prodotti? Contattaci al telefono, e-mail, WhatsApp o su instagram

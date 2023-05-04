@@ -44,28 +44,28 @@ sections:
     section_id: portfolio
     background_style: bg-dark
     projects:
-      - title: Project 1
-        text: Krótki opis materiału
+      - title: portfolio.tester_1
+        text: portfolio.increase
         icon: 1.jpg
         url: '#'
-      - title: Project 2
-        text: Krótki opis materiału
+      - title: portfolio.tester_2
+        text: portfolio.increase
         icon: 2.jpg
         url: '#'
-      - title: Project 3
-        text: Krótki opis materiału
+      - title: portfolio.tester_3
+        text: portfolio.increase
         icon: 3.jpg
         url: '#'
-      - title: Project 4
-        text: Krótki opis materiału
+      - title: portfolio.tester_4
+        text: portfolio.increase
         icon: 4.jpg
         url: '#'
-      - title: Project 5
-        text: Krótki opis materiału
+      - title: portfolio.tester_5
+        text: portfolio.increase
         icon: 5.jpg
         url: '#'
-      - title: Project 6
-        text: Krótki opis materiału
+      - title: portfolio.tester_6
+        text: portfolio.increase
         icon: 6.jpg
         url: '#' 
 

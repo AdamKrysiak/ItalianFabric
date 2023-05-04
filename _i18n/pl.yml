@@ -46,6 +46,15 @@ services:
   transport: Transport
   transport_details: Organizujemy dostawę wszystkich produktów na terenie całej Polski
 
+portfolio:
+  tester_1: Próbnik 1
+  tester_2: Próbnik 2
+  tester_3: Próbnik 3
+  tester_4: Próbnik 4
+  tester_5: Próbnik 5
+  tester_6: Próbnik 6
+  increase: Kliknij aby powiększyć
+
 contacts:
   title: Skontaktuj się z nami!
   text: Gotowy na włoską jakość w swoich produktach? Skontaktuj się z nami przy użyciu telefonu, maila, WhatsApp lub śledź nas na Instagramie 
