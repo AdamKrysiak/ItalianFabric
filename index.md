@@ -82,9 +82,9 @@ sections:
     - title: WhatsApp</br> +39 347 770 0501
       icon: fa-brands fa-whatsapp
       icon_type: fab
-    - title: mybasia
-      icon: fa-brands fa-instagram
-      icon_type: fab
-      url: https://www.instagram.com/mybasia/
+    # - title: mybasia
+    #   icon: fa-brands fa-instagram
+    #   icon_type: fab
+    #   url: https://www.instagram.com/mybasia/
 
 ---
