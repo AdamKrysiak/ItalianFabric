@@ -76,9 +76,9 @@ sections:
     actions:
     - title: +48 791 787 881</br> +39 347 770 0501
       icon: fa-phone
-    - title: info@mybasia.com
+    - title: ing.b.mianowska@gmail.com
       icon: fa-envelope
-      url: mailto:info@mybasia.com
+      url: mailto:ing.b.mianowska@gmail.com
     - title: WhatsApp</br> +39 347 770 0501
       icon: fa-brands fa-whatsapp
       icon_type: fab
